@@ -1,4 +1,4 @@
-import 'package:calculator/view/layout_view.dart';
+import 'package:calculator/view/calculator_view.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
